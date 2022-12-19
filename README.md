@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(0);
 
   if (mouseIsPressed) {
     let wind = createVector(0.1, 0);
